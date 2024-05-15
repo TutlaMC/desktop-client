@@ -1,0 +1,76 @@
+# TUTLA DEVELOPER AND USER SOURCE PROTECTION LICENSE (TDUSPL)
+Copyright 2024 | TutlaMC
+
+This is free to use simple license wherein the applier (Developer, Source & User) is forbidden from copying or mdifying the license under the same or similar name or brand. This license may not be used if there is an amendment version of it.
+
+[---------------------------------------------------------------------]
+
+**Summary**:
+This license aims to protect the Developer from users stealing the software and claiming as theirs. The following terms are not only for copyright but also for protection of users by preventing injection of malware or RATs. 
+
+ANYONE IS FREE TO USE THE SOFTWARE ASLONG AS THEY CREDIT THE SOURCE AND MAINTAIN THE REPUTATION OF THE SOURCE BY NOT INJECTING ANY SOFTWARE THAT HARMS THE END USER(S). THE DEVELOPER MAY NOT SHARE THE ENTIRE OR MORE THAN HALF OF THE PROGRAM UNDER THE SAME OR SIMILAR BRAND/NAME WITHOUT CLAIMING THE SOFTWARE AS ONE'S. DEVELOPER IS FREE TO USE A CONCEPT FROM THE SOFTWARE WITHOUT THE BRAND OF THE SOURCE. DEVELOPER MAY ONLY USE FOR ANYTHIGN OTHER THAN SHARING. 
+THIS LICENSE DOES NOT APPLY TO ANYONE WITH A PERMIT BY THE SOURCE. IF THE SOURCE REVOKES THE PERMIT THIS IS APPLIED TO THEM. 
+SOURCE MAY NOT VIOLATE ANY OF THE TOS THAT APPLIES TO THEM. 
+
+[---------------------------------------------------------------------]
+
+**Definitions**:
+
+"User": The user here refers to the person using the software provided by the source or developer
+"Source": The Source/Developer here referes to the legal owner of the software provided 
+"Software": The software here refers to the product on which this license is applied, it may be even one singular file which is not a program but if this license if present on place of sharing then that is considered as said.
+"Name": Name here not only refers to the name, but also the brand and it's display.
+"Malware": Malware here refers to anything that could harm or expose the user.
+
+
+
+[---------------------------------------------------------------------]
+
+## INTENTION: 
+This whole thing is based on the intention of all in reference, this only applies to your intention. The intention is what your meaning to do so trying to "I had the intention to not steal so I stole", an average intellectual will be able to understand what is wrong in that sentence. 
+So all what is here depends upon what you are intending to do, hence forbidding loopholes
+
+Lastly, solidify no loopholes: you can only use this license by reading it literally or in what is understood by the "average human being".
+
+## TOS:
+
+1. **Usage of software**
+Anyone may use the software and view it's code, the code may be public or obfuscated. User is free to do anything with the software as long as it is within the TOS of the source.
+
+2. **Program CANNOT have malware [APPLIES TO SOURCE]**
+As said in the definition, the malware i somethign that will harm or steal something from the user. This cannot be in the software from both the source and developer
+
+3. **It can be used as a dependency or library if it is one**
+Developer may use the software as a dependency for their projects but may not use it as a source for the purpose of stealing or modifiying. If the source permits usage as a library you may use it as a library or dependency.
+
+4. **Software cannot "change" the software using another software. [APPLIES TO SOURCE]**
+A common loophole whould be to change the software by using another software, so this is forbidden and it canonly be done by the intent of a human and would violate 
+
+5. **Cannot be used for the intent of stealing or modifiying**
+The Developer may not take the software to modify or steal it. Meaning they cannot take the software modify it, then claim they own it when they do not have a permit provided by the source.
+
+6. **Share without modification or claim**
+Anyone is free to share the software **without** modifying or changing the software and you must credit the source. You cannot share without providing the name of the source. Crediting is not necessary if the platform you are providing itin displays the source (Ex: The source's mod on a modpack on Modrinth)
+
+8. **Using this license from a software that violates the license**
+You may not use this license if the software your using violates this TOS, using or modifying with the license would be a violation fo the source's license if the source has this license on their software
+
+9. **Protect the reputation of the source**
+The name or brand of the source may not be ruined by modifying the software.
+
+10. **No loopholes**
+It's necassary that this is pointed out again, you cannot go outside of the box here. Stay on context and keep your intention on what is mentioned.
+
+
+
+## Permit
+The source may provide permits to break a section of the TOS, here are the permits that can be provided:
+
+- Permit to change the software and distribute
+- Permit to change the branding of the software
+- Permit to change the software anyhow
+- Premit to use a specific part of the software
+
+  A permit may last however long the source states. The source 
+
+  All these permits come with the rest of the TOS and crediting the source.
